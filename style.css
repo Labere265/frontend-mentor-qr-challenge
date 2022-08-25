@@ -1,0 +1,48 @@
+body{
+		background-color: hsl(212, 45%, 89%);
+		width: max-width;
+}
+@font-face {
+		font-family: outfit;
+		src: url('fonts/Outfit-VariableFont_wght.ttf');
+}
+.attribution {
+		font-size: 11px;
+		text-align: center;
+}
+.attribution a{
+		color: hsl(228, 45%, 44%);
+		text-decoration: none;
+}
+#container {
+		width: 340px;
+		height: 499px;
+		background-color: hsl(0, 0%, 100%);
+		margin: 0 auto;
+		border-radius: 17px;
+		
+}
+.qrcode img{
+		width: 320px;
+		height: 290px;
+		margin-left: 10px;
+		margin-top: 11px;
+		border-radius: 16px;
+		
+}
+#container h1{
+		font-weight: 700;
+		font-family: outfit;
+		text-align: center;
+		color:hsl(218, 44%, 22%);
+		font-family: outfit;
+}
+#container p{
+		font-weight: 400;
+		text-align: center;
+		font-size: 15px;
+		font-family: outfit;
+		color: hsl(220, 15%, 55%);
+		font-family: outfit;
+}
+		
